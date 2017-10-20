@@ -1,0 +1,96 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	padding-bottom: 5vh;
+	color: #212121;
+}
+
+a:visited {
+	color: #212121;
+}
+
+a:hover {
+	color: blue;
+}
+
+img {
+	max-width: 100%;
+}
+
+i {
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 10vh;
+}
+
+div.entree {
+	margin-top: 10vh;
+}
+
+p.date {
+	font-size: 3vh;
+	font-weight: 400;
+	background-color: #212121;
+	color: white;
+	width: fit-content;
+	padding-left: 1vw;
+	padding-right: 1vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+
+p.date-passee {
+	text-decoration : line-through;
+}
+
+p.carnet-de-bord {
+	font-size: 4vh;
+	font-weight: 600;
+}
+
+p.carnet-de-bord strong {
+	background-color: lawngreen;
+}
+
+div.carte-conceptuelle {
+	padding-left: 10vw;
+	padding-right: 10vw;
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+}
+
+div.carte-conceptuelle img {
+	width: 100%;
+}
+
+footer {
+	display: flex;
+	justify-content: flex-end;
+	padding-top: 10vh;
+	padding-bottom: 5vh;
+}
+
+footer>p>strong {
+	background-color: lawngreen;
+	width: fit-content;
+}
+
+img.image-entouree-droite {
+	float: right;
+	margin-left: 3vw;
+	margin-bottom: 2vh;
+}
+
+img.image-entouree-gauche {
+	float: left;
+	margin-right: 3vw;
+	margin-bottom: 2vh;
+}
+
+div.image-pleine-page {
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+}
