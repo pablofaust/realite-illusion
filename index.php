@@ -153,7 +153,11 @@
 
         <br><br>
 
-        Or, on ne peut pas définir le fait d'être, c'est quelque chose dont on fait l'expérience. On sait ce qu'est la réalité, on la vit, mais on ne saurait pas dire ce que c'est. On sent déjà qu'on va avoir du mal à trouver des preuves de la réalité. Du coup Alquié propose de le définir en négatif, pour voir ce que la réalité renferme que ses opposés n'expriment pas : 
+        Et basta.
+
+        <br><br>
+
+        Sauf qu'on ne peut pas définir le fait d'être, c'est quelque chose dont on fait l'expérience mais qu'on ne peut pas définir. On sait ce qu'est la réalité, on la vit, mais on ne saurait pas dire ce que c'est. (On sent déjà qu'on va avoir du mal à trouver des preuves de la réalité). Du coup Alquié propose de la définir en négatif, pour voir ce qu'elle renferme que ses opposés n'expriment pas : 
 
         <br><br>
 
@@ -169,7 +173,7 @@
 
       <p class="carnet-de-bord">
 
-        Surtout, la réalité scientifique comme la réalité philosophique sont en perpétuelle redéfinition. On pensait qu'elle était <i>comme ça</i>, mais en fait peut-être qu'elle est plutôt <i>comme ça</i>. La réalité semble donc être cette chose insaisissable : à la fois une expérience momentanée qui serait universelle, mais dont la représentation que l'on s'en fait change en permanence. 
+        Surtout, la réalité scientifique comme la réalité philosophique sont en perpétuelle redéfinition. On pensait que la réalité c'était <i>ça</i>, mais en fait peut-être que c'est aussi <i> ça</i>. La réalité semble donc être une chose insaisissable : une expérience momentanée qui serait universelle, mais dont la représentation que l'on se fait change en permanence. 
 
         <br></br>
 
@@ -177,11 +181,11 @@
 
         <br><br>
 
-        Je tombe ensuite sur un paragraphe qui m'émeut un peu, parce qu'il fait écho à des phrases que j'ai pu noter ces dernières années, qui faisaient mention d'une "<strong>perte d'adhérence au réel</strong>", pour moi liée à l'omniprésence des écrans :
+        Je tombe ensuite sur un paragraphe qui m'émeut un peu, parce qu'il fait écho à des phrases que j'ai pu noter ces dernières années, celles qui faisaient mention d'une "<strong>perte d'adhérence au réel</strong>" (pour moi liée à l'omniprésence des écrans) :
 
         <br><br>
 
-        <i>"Nous trouvons en nous <strong>un principe qui nous amène à reconnaître cette solidité des choses, et que l'on peut tenir pour constitutif de tout esprit sain : c'est ce que l'on nomme le principe de réalité</strong>. Ce principe est au fondement même de notre adaptation à la vie : dès le départ, toute sensation engendre des réactions motrices. <strong>Tenir une chose pour réelle, c'est adopter à son égard un certain comportement</strong>. <a href="https://fr.wikipedia.org/wiki/Pierre_Janet" target="_blank">Pierre Janet</a> a montré que la perte pathologique du sentiment du réel est toujours liée au trouble de tels comportements, spontanés et adaptatifs."</i>
+        <i>"Nous trouvons en nous <strong>un principe qui nous amène à reconnaître cette solidité des choses, et que l'on peut tenir pour constitutif de tout esprit sain : c'est ce que l'on nomme le <i>principe de réalité</i></strong>. Ce principe est au fondement même de notre adaptation à la vie : dès le départ, toute sensation engendre des réactions motrices. <strong>Tenir une chose pour réelle, c'est adopter à son égard un certain comportement</strong>. <a href="https://fr.wikipedia.org/wiki/Pierre_Janet" target="_blank">Pierre Janet</a> a montré que la perte pathologique du sentiment du réel est toujours liée au trouble de tels comportements, spontanés et adaptatifs."</i>
 
         <br><br>
 
@@ -189,7 +193,7 @@
 
         <br><br>
         
-        Mais même les sensations peuvent être mises en doute à partir du moment où elles peuvent être créées par notre esprit, comme les démangeaisons que ressentent les amputés dans leur membre "fantôme". On se rend compte que quand on dit que quelque chose est réel, on se réfère à une idée pré-conçue de la réalité. Par exemple, on va dire d'un rêve qu'il était plus ou moins "vrai", c'est-à-dire crédible, proche des lois que l'esprit a reconnu dans la nature. 
+        Mais même les sensations peuvent être mises en doute à partir du moment où elles peuvent être créées par notre esprit, comme les démangeaisons que ressentent les amputés dans leur membre "fantôme". On découvre que quand on dit que quelque chose est réel, on se réfère à une idée pré-conçue de la réalité. Par exemple, on va dire d'un rêve qu'il était plus ou moins "vrai", c'est-à-dire crédible, proche des lois que l'esprit a reconnu dans la nature. Et en général, ces lois ne relèvent pas de la logique, mais de l'habitude. <strong>La réalité c'est donc ce que j'ai l'habitude de subir</strong>.
 
       </p>
     </div>
@@ -198,7 +202,7 @@
       
       <p class="signature">
 
-        Morceaux d'idées assemblées tant bien que mal, cahin-caha, par Pablo Faust : <strong><a href="mailto:pabfaust@gmail.com">messagez-moi si souhaitez contribuer</a></strong>.
+        Morceaux d'idées assemblées tant bien que mal par Pablo Faust : <strong><a href="mailto:pabfaust@gmail.com">messagez-moi si vous souhaitez contribuer</a></strong>.
 
       </p>
 
