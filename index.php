@@ -18,6 +18,16 @@
 
     <h1>Réalité | Illusion</h1>
 
+    <div class="encart-intro">
+      
+      Je me propose de faire de ces deux oppositions, réalité | illusion, un filet, et de le tendre au vent jusqu’en juin 2018. On verra bien ce que je pêche.
+
+    </div>
+
+    <div class="gif-intro">
+      <img src="eric_antoine.gif">
+    </div>
+
     <div class="entree">
 
       <p class="date date-passee">17.10.17</p>
@@ -36,11 +46,9 @@
 
         <br><br>
 
-        <strong>Au sein de toutes ces philosophies et de toutes ces œuvres, je peux voir courir la faille réalité | illusion. Et surtout, j’en pressens l’urgence (il ne faut pas être devin) à l’aube de la réalité virtuelle et des vies algorithmées.</strong>
+        <strong>Au sein de toutes ces philosophies et de toutes ces œuvres, je peux voir courir la faille réalité | illusion. Et surtout, j’en pressens l’urgence (pas besoin d'être devin, c'est vrai) à l’aube de la réalité virtuelle et des vies algorithmées.</strong>
 
         <br><br>
-
-        Je me propose donc de faire de ces deux oppositions un filet, réalité | illusion, et de le tendre au vent jusqu’en juin 2018. On verra bien ce que je pêche.
 
       </p>
 
@@ -193,7 +201,11 @@
 
         <br><br>
         
-        Mais même les sensations peuvent être mises en doute à partir du moment où elles peuvent être créées par notre esprit, comme les démangeaisons que ressentent les amputés dans leur membre "fantôme". On découvre que quand on dit que quelque chose est réel, on se réfère à une idée pré-conçue de la réalité. Par exemple, on va dire d'un rêve qu'il était plus ou moins "vrai", c'est-à-dire crédible, proche des lois que l'esprit a reconnu dans la nature. Et en général, ces lois ne relèvent pas de la logique, mais de l'habitude. <strong>La réalité c'est donc ce que j'ai l'habitude de subir</strong>.
+        Mais même les sensations peuvent être mises en doute à partir du moment où elles peuvent être créées par notre esprit, comme les démangeaisons que ressentent les amputés dans leur membre "fantôme". On découvre que quand on dit que quelque chose est réel, on se réfère à une idée pré-conçue de la réalité. Par exemple, on va dire d'un rêve qu'il était plus ou moins "vrai", c'est-à-dire crédible, proche des lois que l'esprit a reconnu dans la nature. Et en général, ces lois ne relèvent pas de la logique, mais de l'habitude. <strong>La réalité c'est donc ce qu'on a l'habitude de subir.</strong>
+
+        <br><br>
+
+        <strong>La réalité, c'est ce qui est "jugé" réel</strong>. <a href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes"></a>Descartes parle ainsi d'hommes qu'il voit passer dans la rue, "<i>à la vue desquels je ne manque pas de dire que je vois des hommes [...] <strong>et cependant que vois-je de cette fenêtre, sinon des chapeaux et des manteaux, qui peuvent couvrir des spectres ou des hommes feints qui ne se remuent que par ressorts</strong> ? Mais je juge que ce sont de vrais hommes, et ainsi je comprends, par la seule puissance de juger qui réside en mon esprit, ce que je croyais voir de mes yeux</i>" (<i><a href="https://fr.wikisource.org/wiki/M%C3%A9ditations_m%C3%A9taphysiques/M%C3%A9ditation_seconde" target="_blank">Méditation seconde</i></a>). On se croirait en plein <i>Westworld</i>.
 
       </p>
     </div>

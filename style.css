@@ -26,10 +26,14 @@ h1 {
 	font-size: 10vh;
 }
 
+div.gif-intro img {
+	margin-top: 10vh;
+}
+
 div.encart-intro {
 	background-color: #212121;
-	padding-left: 3vw;
-	padding-right: 3vw;
+	padding-left: 5vw;
+	padding-right: 5vw;
 	padding-top: 5vh;
 	padding-bottom: 5vh;
 	font-size: 4vh;
