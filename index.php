@@ -140,7 +140,61 @@
 
     </div>
 
-<!--     <footer>
+    <div class="entree">
+      
+      <p class="date date-passee">21.10.17</p>
+      <p class="carnet-de-bord">
+        
+        Je me résouds enfin à faire ce que j'aurais dû faire dès le premier jour : regarder dans l'encyclopédie ce qu'on trouve pour "réalité". C'est <a href="https://fr.wikipedia.org/wiki/Ferdinand_Alqui%C3%A9" target="_blank">Ferdinand Alquié</a> qui s'y est collé pour Universalis.
+
+        <br><br>
+
+        <i><strong>"une réalité, c'est une chose qui est, la réalité, c'est l'ensemble des choses qui sont."</strong></i>
+
+        <br><br>
+
+        Or, on ne peut pas définir le fait d'être, c'est quelque chose dont on fait l'expérience. On sait ce qu'est la réalité, on la vit, mais on ne saurait pas dire ce que c'est. On sent déjà qu'on va avoir du mal à trouver des preuves de la réalité. Du coup Alquié propose de le définir en négatif, pour voir ce que la réalité renferme que ses opposés n'expriment pas : 
+
+        <br><br>
+
+        <i>"L'imaginaire n'est pas le réel, <strong>l'illusoire comporte l'erreur</strong>, l'idéal, s'il n'est pas pure chimère, n'est en tout cas point encore réalisé."</i>
+
+
+      </p>
+    </div>
+
+    <div class="entree">
+      
+      <p class="date">22.10.17</p>
+
+      <p class="carnet-de-bord">
+
+        Surtout, la réalité scientifique comme la réalité philosophique sont en perpétuelle redéfinition. On pensait qu'elle était <i>comme ça</i>, mais en fait peut-être qu'elle est plutôt <i>comme ça</i>. La réalité semble donc être cette chose insaisissable : à la fois une expérience momentanée qui serait universelle, mais dont la représentation que l'on s'en fait change en permanence. 
+
+        <br></br>
+
+        <strong>Une des marques distinctive du réel est son caractère subi : par exemple, les sensations expriment plus facilement la réalité que les images, parce qu'on subit les sensations tandis que c'est notre conscience qui crée les images.</strong> Le réel, c'est ainsi ce qui résiste à notre volonté : la distance qui nous sépare de l'être qu'on aime, ou le temps qui fait que certaines choses ne reviendront pas.
+
+        <br><br>
+
+        Je tombe ensuite sur un paragraphe qui m'émeut un peu, parce qu'il fait écho à des phrases que j'ai pu noter ces dernières années, qui faisaient mention d'une "<strong>perte d'adhérence au réel</strong>", pour moi liée à l'omniprésence des écrans :
+
+        <br><br>
+
+        <i>"Nous trouvons en nous <strong>un principe qui nous amène à reconnaître cette solidité des choses, et que l'on peut tenir pour constitutif de tout esprit sain : c'est ce que l'on nomme le principe de réalité</strong>. Ce principe est au fondement même de notre adaptation à la vie : dès le départ, toute sensation engendre des réactions motrices. <strong>Tenir une chose pour réelle, c'est adopter à son égard un certain comportement</strong>. <a href="https://fr.wikipedia.org/wiki/Pierre_Janet" target="_blank">Pierre Janet</a> a montré que la perte pathologique du sentiment du réel est toujours liée au trouble de tels comportements, spontanés et adaptatifs."</i>
+
+        <br><br>
+
+        Comme un cordon fragile qui relierait notre conscience à la réalité.
+
+        <br><br>
+        
+        Mais même les sensations peuvent être mises en doute à partir du moment où elles peuvent être créées par notre esprit, comme les démangeaisons que ressentent les amputés dans leur membre "fantôme". On se rend compte que quand on dit que quelque chose est réel, on se réfère à une idée pré-conçue de la réalité. Par exemple, on va dire d'un rêve qu'il était plus ou moins "vrai", c'est-à-dire crédible, proche des lois que l'esprit a reconnu dans la nature. 
+
+      </p>
+    </div>
+
+    <footer>
       
       <p class="signature">
 
@@ -148,7 +202,7 @@
 
       </p>
 
-    </footer> -->
+    </footer>
 
   </body>
 
