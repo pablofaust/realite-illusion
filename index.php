@@ -145,7 +145,7 @@
       <p class="date date-passee">21.10.17</p>
       <p class="carnet-de-bord">
         
-        Je me résouds enfin à faire ce que j'aurais dû faire dès le premier jour : regarder dans l'encyclopédie ce qu'on trouve pour "réalité". C'est <a href="https://fr.wikipedia.org/wiki/Ferdinand_Alqui%C3%A9" target="_blank">Ferdinand Alquié</a> qui s'y est collé pour Universalis.
+        Je me résous enfin à faire ce que j'aurais dû faire dès le premier jour : regarder dans l'encyclopédie ce qu'on trouve pour "réalité". C'est <a href="https://fr.wikipedia.org/wiki/Ferdinand_Alqui%C3%A9" target="_blank">Ferdinand Alquié</a> qui s'y est collé pour Universalis.
 
         <br><br>
 
