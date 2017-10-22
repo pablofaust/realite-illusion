@@ -205,7 +205,11 @@
 
         <br><br>
 
-        <strong>La réalité, c'est ce qui est "jugé" réel</strong>. <a href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes"></a>Descartes parle ainsi d'hommes qu'il voit passer dans la rue, "<i>à la vue desquels je ne manque pas de dire que je vois des hommes [...] <strong>et cependant que vois-je de cette fenêtre, sinon des chapeaux et des manteaux, qui peuvent couvrir des spectres ou des hommes feints qui ne se remuent que par ressorts</strong> ? Mais je juge que ce sont de vrais hommes, et ainsi je comprends, par la seule puissance de juger qui réside en mon esprit, ce que je croyais voir de mes yeux</i>" (<i><a href="https://fr.wikisource.org/wiki/M%C3%A9ditations_m%C3%A9taphysiques/M%C3%A9ditation_seconde" target="_blank">Méditation seconde</i></a>). On se croirait en plein <i>Westworld</i>.
+        <strong>La réalité, c'est ce qui est "jugé" réel</strong>. <a href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes"></a>
+
+        <br><br>
+
+        "<i>si par hasard je ne regardois d’une fenêtre des hommes qui passent dans la rue, à la vue desquels je ne manque pas de dire que je vois des hommes, tout de même que je dis que je vois de la cire ; <strong>et cependant que vois-je de cette fenêtre, sinon des chapeaux et des manteaux, qui pourroient couvrir des machines artificielles qui ne se remueroient que par ressorts ? mais je juge que ce sont des hommes</strong> ; et ainsi je comprends par la seule puissance de juger qui réside en mon esprit ce que je croyois voir de mes yeux</i>" (<a href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">Descartes</a>, <i><a href="https://fr.wikisource.org/wiki/M%C3%A9ditations_m%C3%A9taphysiques/M%C3%A9ditation_seconde" target="_blank">Méditation seconde</i></a>). On se croirait en plein <i>Westworld</i>.
 
       </p>
     </div>
